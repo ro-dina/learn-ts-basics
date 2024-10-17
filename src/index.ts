@@ -28,5 +28,17 @@
 //console.log("■ prac05a.ts の実行")
 //import "./daisankai/prac05a";
 
-console.log("■ prac06.ts の実行")
-import "./daisankai/prac06";
+//console.log("■ prac06.ts の実行")
+//import "./daisankai/prac06";
+
+//console.log("■ ennsyuu2.ts の実行")
+//import "../src/ensyuu/ennsyuu2";
+
+//console.log("■ prac06a.ts の実行")
+//import "./daisankai/prac06a";
+
+//console.log("■ prac07.ts の実行")
+//import "./daisankai/prac07"
+
+console.log("■ prac08.ts の実行")
+import "./daisankai/prac08"
